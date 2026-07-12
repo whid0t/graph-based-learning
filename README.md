@@ -18,7 +18,4 @@ The first notebook exports the TSV files required by the ULTRA notebook.
 
 ## Data Path
 
-Do not change the location of the knowledge graph. It should be at:
-
-```python
-KG_PATH = Path("kg_raw.ttl")
+Do not change the location of the knowledge graph. By default, the notebooks expect the knowledge graph at ```miniproject/kg_raw.ttl```.
