@@ -7,7 +7,7 @@ This project studies relational inductive bias of message passing - whether rela
 - `crime_kg_experiments.ipynb`: main notebook with KG parsing, diagnostics, baselines, R-GCN experiments, and relation ablations.
 - `crime_kg_ultra.ipynb`: ULTRA link prediction experiment using TSV splits exported from the main notebook.
 - `kg_raw.ttl`: input knowledge graph.
-- `crime_kg_outputs/`: exported splits and result CSV files.
+- `crime_kg_outputs/`: exported splits and resulting CSV files with the metrics.
 
 ## Running Order
 
