@@ -1,4 +1,4 @@
-# Crime Knowledge Graph Experiments
+# Relational Inductive Bias in an Event-Centric Crime Knowledge Graph
 
 This project investigates relational inductive bias of message passing - whether relational message passing improves prediction on an event-centric crime knowledge graph and how sensitive the performance is to the choice of graph relations. The main task is to predict the coarse victim-offender relationship category, which shows if there is a connection between the offender and the victim (for example, parent, boyfriend/girlfriend, and others). The knowledge graph used is the one created in another project - [NIBRS Knowledge Graph Project](https://github.com/whid0t/nibrs-knowledge-graph).
 
